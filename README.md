@@ -5,7 +5,7 @@
 
 This report provides a **comprehensive incident response analysis** and a **step-by-step walkthrough** of the **Blue Team Lab from CyberDefenders**, focusing on forensic investigation, threat detection, Malware analysis, and remediation strategies.
 
-[intro](intro.md)
+[Intro](intro.md)
 
 [Executive Summary](Executive%20Summary.md)
 
